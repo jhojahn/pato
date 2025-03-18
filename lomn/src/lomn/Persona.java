@@ -2,7 +2,7 @@ package lomn;
 
 public class Persona {
 int r;
-int l;
+int b;
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
